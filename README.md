@@ -1,4 +1,4 @@
-!! Work Stil in Progress !!
+!! Work Still in Progress !!
 
 # React Truffle Box
 
