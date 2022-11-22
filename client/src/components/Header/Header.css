@@ -1,0 +1,12 @@
+.test {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.header-voting {
+    margin-left: 0;
+}
