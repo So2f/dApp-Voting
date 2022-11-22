@@ -1,5 +1,7 @@
 !! Work Still in Progress !!
 
+Loom presentation => https://www.loom.com/share/c00099aa28204e9c820921909e35fe7e
+
 # React Truffle Box
 
 This box comes with everything you need to start using Truffle to write, compile, test, and deploy smart contracts, and interact with them from a React app.
